@@ -5,6 +5,10 @@ import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
 const imports = [];
+console.log(
+  '🚀 ~ file: app.module.ts ~ line 10 ~ process.env.NODE_ENV',
+  process.env.NODE_ENV,
+);
 
 if (process.env.NODE_ENV === 'production') {
   imports.push(
