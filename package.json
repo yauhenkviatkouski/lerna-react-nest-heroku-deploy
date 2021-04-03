@@ -1,0 +1,23 @@
+{
+  "name": "lerna-react-node-ts",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yauhenkviatkouski/lerna-react-node-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yauhenkviatkouski/lerna-react-node-ts/issues"
+  },
+  "homepage": "https://github.com/yauhenkviatkouski/lerna-react-node-ts#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
