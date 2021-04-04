@@ -7,6 +7,7 @@ static reac typescript application is served by nest js server
 ## Requirements:
 
 nest cli
+
 lerna
 
 ### Development:
