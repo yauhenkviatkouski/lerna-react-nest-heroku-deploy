@@ -4,14 +4,19 @@ starter kit for developing modern applications
 
 static reac typescript application is served by nest js server
 
-## Development:
+## Requirements:
+
+nest cli
+lerna
+
+### Development:
 
 from root dir:
 
 - npm run i:all to install dependencies from root and all packages
 - npm start
 
-## Deploying:
+### Deploying:
 
 from root dir:
 
